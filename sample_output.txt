@@ -1,0 +1,10 @@
+Mini Network Scanner Report
+============================
+Target: scanme.nmap.org
+Resolved IP: 45.33.32.156
+Port Range: 20-100
+Scan Time: 2026-03-15 11:20:00
+
+Open Ports:
+- Port 22: SSH
+- Port 80: HTTP
