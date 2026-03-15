@@ -1,0 +1,12 @@
+Mini Network Scanner
+--------------------
+Enter target IP or hostname: scanme.nmap.org
+Enter starting port: 20
+Enter ending port: 100
+
+Scanning target: 45.33.32.156
+Open ports found:
+- Port 22: SSH
+- Port 80: HTTP
+
+Results saved to scan_results.txt
